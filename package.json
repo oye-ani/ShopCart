@@ -1,12 +1,12 @@
 {
-  "name": "megamart",
+  "name": "ShopCart",
   "version": "1.0.0",
   "description": "An E-commerce application",
   "main": "index.js",
   "scripts": {
     "start": "nodemon index.js"
   },
-  "author": "Rajat Kuamr",
+  "author": "Aniket Singh",
   "license": "ISC",
   "dependencies": {
     "connect-flash": "^0.1.1",
